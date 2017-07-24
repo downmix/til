@@ -14,5 +14,5 @@
 
 
 ## 2 Week
-
+- [CSS position, float](https://github.com/downmix/til/blob/master/1-week/6day.md)
 ## 3 Week
