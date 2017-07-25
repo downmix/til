@@ -15,4 +15,5 @@
 
 ## 2 Week
 - [CSS position, float](https://github.com/downmix/til/blob/master/1-week/6day.md)
+- [CSS 웹폰트, 레이아웃](https://github.com/downmix/til/blob/master/1-week/7day.md)
 ## 3 Week
