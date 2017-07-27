@@ -13,7 +13,7 @@
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/html-css/5day.md)
 - [CSS position, float](https://github.com/downmix/til/blob/master/html-css/6day.md)
 - [CSS 웹폰트, 레이아웃](https://github.com/downmix/til/blob/master/html-css/7day.md)
-- [CSS 그리드, 부트스트랩, 플렉스](https://github.com/downmix/til/blob/master/html-css/7day.md)
+- [CSS 그리드, 부트스트랩, 플렉스](https://github.com/downmix/til/blob/master/html-css/8day.md)
 
 
 ## Javascript
