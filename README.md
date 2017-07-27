@@ -5,15 +5,16 @@
 
 # 목차
 
-## 1 Week
-- [강의 OT & HTML5 기초](https://github.com/downmix/til/blob/master/1-week/1day.md)
-- [HTML5](https://github.com/downmix/til/blob/master/1-week/2day.md)
-- [개발환경 설정 & CSS(문법, 셀렉터)](https://github.com/downmix/til/blob/master/1-week/3day.md)
-- [CSS(속성값 단위, box, display, font)](https://github.com/downmix/til/blob/master/1-week/4day.md)
-- [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/1-week/5day.md)
+## HTML, CSS
+- [강의 OT & HTML5 기초](https://github.com/downmix/til/blob/master/html-css/1day.md)
+- [HTML5](https://github.com/downmix/til/blob/master/html-css/2day.md)
+- [개발환경 설정 & CSS(문법, 셀렉터)](https://github.com/downmix/til/blob/master/html-css/3day.md)
+- [CSS(속성값 단위, box, display, font)](https://github.com/downmix/til/blob/master/html-css/4day.md)
+- [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/html-css/5day.md)
+- [CSS position, float](https://github.com/downmix/til/blob/master/html-css/6day.md)
+- [CSS 웹폰트, 레이아웃](https://github.com/downmix/til/blob/master/html-css/7day.md)
+- [CSS 그리드, 부트스트랩, 플렉스](https://github.com/downmix/til/blob/master/html-css/7day.md)
 
 
-## 2 Week
-- [CSS position, float](https://github.com/downmix/til/blob/master/1-week/6day.md)
-- [CSS 웹폰트, 레이아웃](https://github.com/downmix/til/blob/master/1-week/7day.md)
-## 3 Week
+## Javascript
+- [...](https://github.com/downmix/til/blob/master/html-css/7day.md)
