@@ -17,4 +17,4 @@
 
 
 ## Javascript
-- [...](https://github.com/downmix/til/blob/master/html-css/7day.md)
+- [javascript 입문](https://github.com/downmix/til/blob/master/javascript/10day.md)
