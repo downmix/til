@@ -10,7 +10,6 @@
 - [HTML5](https://github.com/downmix/til/blob/master/html-css/2day.md)
 - [개발환경 설정 & CSS(문법, 셀렉터)](https://github.com/downmix/til/blob/master/html-css/3day.md)
 - [CSS(속성값 단위, box, display, font)](https://github.com/downmix/til/blob/master/html-css/4day.md)
-- [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/html-css/5day.md)
 - [CSS position, float](https://github.com/downmix/til/blob/master/html-css/6day.md)
 - [CSS 웹폰트, 레이아웃](https://github.com/downmix/til/blob/master/html-css/7day.md)
 - [CSS 그리드, 부트스트랩, 플렉스](https://github.com/downmix/til/blob/master/html-css/8day.md)
@@ -18,3 +17,7 @@
 
 ## Javascript
 - [javascript 입문](https://github.com/downmix/til/blob/master/javascript/10day.md)
+- [변수, 연산자, 조건문, 반복문, 객체](https://github.com/downmix/til/blob/master/javascript/11day.md)
+
+## 컴퓨터공학
+- [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/comeng/5day.md)
