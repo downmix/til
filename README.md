@@ -18,6 +18,7 @@
 ## Javascript
 - [javascript 입문](https://github.com/downmix/til/blob/master/javascript/10day.md)
 - [변수, 연산자, 조건문, 반복문, 객체](https://github.com/downmix/til/blob/master/javascript/11day.md)
+- [함수](https://github.com/downmix/til/blob/master/javascript/12day.md)
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/comeng/5day.md)
