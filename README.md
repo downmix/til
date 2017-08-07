@@ -25,4 +25,4 @@
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
-- [소프트웨어 엔지니어링](https://github.com/downmix/til/blob/master/computer/5day.md)
+- [소프트웨어 엔지니어링](https://github.com/downmix/til/blob/master/computer/15day.md)
