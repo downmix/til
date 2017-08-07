@@ -19,6 +19,10 @@
 - [javascript 입문](https://github.com/downmix/til/blob/master/javascript/10day.md)
 - [변수, 연산자, 조건문, 반복문, 객체](https://github.com/downmix/til/blob/master/javascript/11day.md)
 - [함수](https://github.com/downmix/til/blob/master/javascript/12day.md)
+- [Prototype 프로토타입](https://github.com/downmix/til/blob/master/javascript/14day.md)
+- [실행 컨텍스트, 클로저](https://github.com/downmix/til/blob/master/javascript/16day.md)
+
 
 ## 컴퓨터공학
-- [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/comeng/5day.md)
+- [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
+- [소프트웨어 엔지니어링](https://github.com/downmix/til/blob/master/computer/5day.md)
