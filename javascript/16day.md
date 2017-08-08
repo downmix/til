@@ -47,7 +47,81 @@ VO에는 변수, 매개변수&인수, 함수선언(함수표현식 제외) 있�
 
 ## this 
 this에는 함수호출 패턴에 따라 this값이 할당된다.
+### 메서드 호출패턴
+해당 메소드를 소유한 객체, 해당 메소드를 호출한 객체에 바인딩된다.
+```javascript
+var obj1 = { 
+  name: 'Lee', 
+  sayName: function() { 
+    console.log(this.name); 
+  } 
+} 
+var obj2 = { name: 'Kim' } 
 
+obj2.sayName = obj1.sayName; 
+
+obj1.sayName(); //Lee
+obj2.sayName(); // Kim
+```
+
+### 함수 호출패턴
+기본적으로 전역에서 함수 호출해서 사용시 this는 전역(window)이다.
+내부함수의 this도, 콜백함수에서도 this는 전역이다.
+게다가 메서드 내의 함수에서도 전역을 보게된다.
+```javascript
+var value = 1; 
+var obj = { 
+  value: 100, 
+  foo: function() { 
+    console.log("foo's this: ", this); // obj (메서드 호출패턴)
+    console.log("foo's this.value: ", this.value); // 100 
+   function bar() { 
+       console.log("bar's this: ", this); // window  (메서드 > 내부함수 호출패턴)
+       console.log("bar's this.value: ", this.value); // 1 
+    } 
+    bar(); 
+  } 
+}; 
+
+obj.foo();
+```
+위 문제를 해결하기 위해서는 사전에 var that = this; 와 같은 대체로 해결해야 한다.  
+메소드 호출 패턴이든 함수 호출 패턴이든 내부함수의 this는 모두 전역객체에 바인딩 되기 때문에 JS에서는 call, apply메소드를 통해 지정할수있다.
+
+### 생성자 호출패턴
+new연산자와 함께사용되며, new로 통해 빈 객체 가 만들어지고, 그 객체의 this는 자신을 가르킨다.
+```javascript
+var Person = function(name) {
+  this.name = name; 
+} 
+
+var me = new Person('Lee'); 
+console.log(me.name);
+```
+
+만약 new연산자로 통해 생성하지 않았다면 this는 전역객체를 보게 되고, 원하지않는 오류가 발생하게 된다.
+이를 예방하기 위해 생성자 함수는 첫글자를 대문자로 암묵적으로 네이밍 하거나, arguments.callee를 통해 방어코드로 대응한다.
+
+### apply 호출패턴
+함수호출시 상황에 따라 개발자가 this를 지정한다.
+```javascript
+function Person(name) { 
+  this.name = name; 
+} 
+
+Person.prototype.doSomething = function(callback) { 
+  if(typeof callback == 'function') { 
+    callback.call(this); 
+  } 
+}; 
+
+function foo() { 
+  console.log(this.name); 
+} 
+
+var p = new Person('Lee'); 
+p.doSomething(foo); // 'Lee'
+```
 
 # 실행 컨텍스트 생성과정
 ```javascript
