@@ -23,6 +23,7 @@
 - [실행 컨텍스트, 클로저](https://github.com/downmix/til/blob/master/javascript/16day.md)
 - [OOP 객체지향 프로그래밍](https://github.com/downmix/til/blob/master/javascript/17day-oop.md)
 - [JS의 기본 내장객체](https://github.com/downmix/til/blob/master/javascript/17day-object.md)
+- [Array, Date, String, 정규표현식](https://github.com/downmix/til/blob/master/javascript/18day.md)
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
