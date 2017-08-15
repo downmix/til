@@ -1,0 +1,79 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cities</title>
+  </head>
+    <style>
+      body{
+        width: 100%;
+      }
+      .wrapper {
+        margin: auto;
+        box-sizing : border-box;
+      }
+      .main { 
+        list-style: none;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+      }
+      .head {
+        margin-top: 20vh;
+        text-align: center;
+      }
+  
+      /* 추가요소 */
+      .text {
+        font-size: 30px;
+        font-weight: 300;
+        color: rgb(80,80,80);
+      }
+  
+      .red  { color: red; }
+      .blue { color: blue; }
+      .green { color: green;}
+      .gray { color: gray;}
+    </style>
+  <body>
+    <!-- wrapper 시작 -->
+    <div class="wrapper">
+      <div class="head">
+          <h1>Cities</h1>
+          <ul class="main">
+            <li id="one" class="red">Seoul</li>
+            <li id="two" class="red">London</li>
+            <li id="three" class="red">Newyork</li>
+            <li id="four">Tokyo</li>
+          </ul>
+      </div>
+    </div>
+    <!-- wrapper 종료 -->
+    <script>
+    //2. `id = one` 으로 접근하여 `className`을 `gray`로 변경하시요.
+    var q2 = document.getElementById('one');
+    q2.className = 'gray';
+
+    //3. `qureSelectorAll`을 사용하여 `class = "red"`를 `green`으로 변경하시요. (for문)
+    var q3 = document.querySelectorAll('.red');
+    for(var i = q3.length; i > 0; i--){
+      q3[i-1].className = 'green';
+    }
+    
+    //4. `id = four`에 대해 `setAttribute`을 사용하여 `class = "blue"`를 추가하시오.
+    var q4 = document.getElementById('four');
+    q4.setAttribute('class', 'blue');
+
+    //5. `<h1>`태그와 `<ul>`태그 사이에 `<p class="text">Daliy Quiz</p>` 를 추가하시오. (insertAdjacentHTML() 사용)
+    var q5 = document.querySelector('h1');
+    q5.insertAdjacentHTML('afterend', '<p class="text">Daliy Quiz</p>');
+
+    //6. `li`요소 중 마지막 요소를 삭제 하시오.
+    var q6 = document.getElementsByClassName('main')[0];
+    var q6Delete = q6.lastChild.previousElementSibling;
+    q6.removeChild(q6Delete);
+    </script>
+  </body>
+  </html>
