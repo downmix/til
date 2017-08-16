@@ -25,6 +25,8 @@
 - [JS의 기본 내장객체](https://github.com/downmix/til/blob/master/javascript/17day-object.md)
 - [Array, Date, String, 정규표현식](https://github.com/downmix/til/blob/master/javascript/18day.md)
 - [DOM, Ajax](https://github.com/downmix/til/blob/master/javascript/21day.md)
+- [Event](https://github.com/downmix/til/blob/master/javascript/22day.md)
+- [jQuery](https://github.com/downmix/til/blob/master/javascript/22-5day.md)
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
