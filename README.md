@@ -32,6 +32,7 @@
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
 - [소프트웨어 엔지니어링](https://github.com/downmix/til/blob/master/computer/15day.md)
 - [네트워크, Web](https://github.com/downmix/til/blob/master/computer/20day.md)
+- [Web REST socket](https://github.com/downmix/til/blob/master/computer/20day.md)
 
 ## 연습문제
 [리스트](https://github.com/downmix/til/tree/master/quest)
