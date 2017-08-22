@@ -27,6 +27,9 @@
 - [DOM, Ajax](https://github.com/downmix/til/blob/master/javascript/21day.md)
 - [Event](https://github.com/downmix/til/blob/master/javascript/22day.md)
 - [jQuery](https://github.com/downmix/til/blob/master/javascript/22-5day.md)
+- [ECMAScript6 Part1](https://github.com/downmix/til/blob/master/javascript/25day.md)
+- [ECMAScript6 Part2](https://github.com/downmix/til/blob/master/javascript/26day.md)
+
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
