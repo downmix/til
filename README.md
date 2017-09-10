@@ -34,6 +34,7 @@
 - [Node.js 입문](https://github.com/downmix/til/blob/master/nodejs/27day.md)
 - [HTTP](https://github.com/downmix/til/blob/master/nodejs/28day.md)
 - [Express](https://github.com/downmix/til/blob/master/nodejs/28-5day.md)
+- [HTTP Form, 미들웨어, 쿠키, 세션](https://github.com/downmix/til/blob/master/nodejs/29-31day.md)
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
@@ -41,6 +42,7 @@
 - [네트워크, Web](https://github.com/downmix/til/blob/master/computer/20day.md)
 - [Web REST socket](https://github.com/downmix/til/blob/master/computer/24day.md)
 - [Data 자료구조](https://github.com/downmix/til/blob/master/computer/30day.md)
+- [Data 자료구조2](https://github.com/downmix/til/blob/master/computer/34day.md)
 
 ## 연습문제
 [리스트](https://github.com/downmix/til/tree/master/quest)
