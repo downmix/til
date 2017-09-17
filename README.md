@@ -48,5 +48,7 @@
 - [Data 자료구조](https://github.com/downmix/til/blob/master/computer/30day.md)
 - [Data 자료구조2](https://github.com/downmix/til/blob/master/computer/34day.md)
 
-## 연습문제
-[리스트](https://github.com/downmix/til/tree/master/quest)
+## 비정규 강의
+- [TDD 테스트주도개발 (front-end)](https://github.com/downmix/til/blob/master/etc/02.md)
+- [웹 접근성](https://github.com/downmix/til/blob/master/etc/02.md)
+- [MongoDB](https://github.com/downmix/til/blob/master/etc/03.md)
