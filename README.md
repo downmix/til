@@ -37,6 +37,9 @@
 - [HTTP Form, 미들웨어, 쿠키, 세션](https://github.com/downmix/til/blob/master/nodejs/29-31day.md)
 - [Ajax, JWT](https://github.com/downmix/til/blob/master/nodejs/32day.md)
 - [캐시, GraphQL, SPA](https://github.com/downmix/til/blob/master/nodejs/33day.md)
+- [DB MySQL](https://github.com/downmix/til/blob/master/nodejs/35day.md)
+- [DB MySQL 2](https://github.com/downmix/til/blob/master/nodejs/36day.md)
+
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
 - [소프트웨어 엔지니어링](https://github.com/downmix/til/blob/master/computer/15day.md)
