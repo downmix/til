@@ -39,6 +39,10 @@
 - [캐시, GraphQL, SPA](https://github.com/downmix/til/blob/master/nodejs/33day.md)
 - [DB MySQL](https://github.com/downmix/til/blob/master/nodejs/35day.md)
 - [DB MySQL 2](https://github.com/downmix/til/blob/master/nodejs/36day.md)
+- [Knex](https://github.com/downmix/til/blob/master/nodejs/39day.md)
+- [Knex 2](https://github.com/downmix/til/blob/master/nodejs/40day.md)
+- [socketIO, 인증, 보안, OAuth](https://github.com/downmix/til/blob/master/nodejs/)
+
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
