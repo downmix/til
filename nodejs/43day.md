@@ -206,3 +206,26 @@ app.post('/photos', uploadMiddleware, (req, res) => {
   // req.body : 나머지 폼 데이터
 })
 ```
+
+# JSDoc
+JSDoc은 특별한 형태의 주석을 소스코드에 작성하면 그에 따라 문서를 자동으로 생성해주는 문서 생성 도구이다.
+문서화가 필요시 사용하기 유용하다.
+
+```s
+npm install -g jsdoc
+jsdoc image.js
+```
+
+```js 
+// image.js
+
+/**
+ * 썸네일 생성 작업을 작업 큐에 추가합니다.
+ * @param queue - kue queue 인스턴스
+ * @param {string} location - S3에 업로드된 파일의 public url
+ * @returns {Promise}
+ */
+function createThumbnailJob(queue, id) {
+  ...
+}
+```
