@@ -42,7 +42,9 @@
 - [Knex](https://github.com/downmix/til/blob/master/nodejs/39day.md)
 - [Knex 2](https://github.com/downmix/til/blob/master/nodejs/40day.md)
 - [CSRF, Socket.io](https://github.com/downmix/til/blob/master/nodejs/41day.md)
-- [인증 Passport](https://github.com/downmix/til/blob/master/nodejs/)
+- [인증 Passport](https://github.com/downmix/til/blob/master/nodejs/42day.md)
+- [실 개발시 사용되는 도구](https://github.com/downmix/til/blob/master/nodejs/43day.md)
+
 
 
 ## 컴퓨터공학
