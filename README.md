@@ -44,8 +44,8 @@
 - [CSRF, Socket.io](https://github.com/downmix/til/blob/master/nodejs/41day.md)
 - [인증 Passport](https://github.com/downmix/til/blob/master/nodejs/42day.md)
 - [실 개발시 사용되는 도구들](https://github.com/downmix/til/blob/master/nodejs/43day.md)
-
-
+- [REST](https://github.com/downmix/til/blob/master/nodejs/44day.md)
+- [AWS, Linux](https://github.com/downmix/til/blob/master/nodejs/45day.md)
 
 ## 컴퓨터공학
 - [컴퓨터공학 & GIT](https://github.com/downmix/til/blob/master/computer/5day.md)
